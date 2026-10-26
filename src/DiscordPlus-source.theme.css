@@ -99,7 +99,7 @@
 }
 
 .theme-dark {
-	--dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+	--dplus-backdrop: url(https://files.catbox.moe/zxji6u.png);
 
 	/* accent color is used for things like buttons */
 	--dplus-accent-color-hue: 320; /* hue in HSL */
@@ -120,7 +120,7 @@
 	/* see help documentation on what will work with this variable: */
 }
 .theme-light {
-	--dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+	--dplus-backdrop: url(https://files.catbox.moe/zxji6u.png);
 
 	/* accent color is used for things like buttons */
 	--dplus-accent-color-hue: 320; /* hue in HSL */
